@@ -1,0 +1,23 @@
+.div__8 {
+    padding: 4px 10px 8px 15px;
+    width: 100px;
+	height: 50px;
+    border: 10px solid black;
+}
+
+.div__9 {
+    width: 200px;
+	height: 50px;
+    border: 1px solid black;
+    overflow: auto;
+}
+
+.div__11 {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid 1px black;
+}
